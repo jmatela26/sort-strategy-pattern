@@ -1,0 +1,10 @@
+C:\Users\josiah\OneDrive\Desktop\YouSource\StringSorterApp\StringSorterApp\StringSorterApp\bin\Debug\StringSorterApp.exe.config
+C:\Users\josiah\OneDrive\Desktop\YouSource\StringSorterApp\StringSorterApp\StringSorterApp\bin\Debug\StringSorterApp.exe
+C:\Users\josiah\OneDrive\Desktop\YouSource\StringSorterApp\StringSorterApp\StringSorterApp\bin\Debug\StringSorterApp.pdb
+C:\Users\josiah\OneDrive\Desktop\YouSource\StringSorterApp\StringSorterApp\StringSorterApp\obj\Debug\StringSorterApp.csproj.AssemblyReference.cache
+C:\Users\josiah\OneDrive\Desktop\YouSource\StringSorterApp\StringSorterApp\StringSorterApp\obj\Debug\StringSorterApp.Form1.resources
+C:\Users\josiah\OneDrive\Desktop\YouSource\StringSorterApp\StringSorterApp\StringSorterApp\obj\Debug\StringSorterApp.Properties.Resources.resources
+C:\Users\josiah\OneDrive\Desktop\YouSource\StringSorterApp\StringSorterApp\StringSorterApp\obj\Debug\StringSorterApp.csproj.GenerateResource.cache
+C:\Users\josiah\OneDrive\Desktop\YouSource\StringSorterApp\StringSorterApp\StringSorterApp\obj\Debug\StringSorterApp.csproj.CoreCompileInputs.cache
+C:\Users\josiah\OneDrive\Desktop\YouSource\StringSorterApp\StringSorterApp\StringSorterApp\obj\Debug\StringSorterApp.exe
+C:\Users\josiah\OneDrive\Desktop\YouSource\StringSorterApp\StringSorterApp\StringSorterApp\obj\Debug\StringSorterApp.pdb
